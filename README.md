@@ -1,0 +1,1 @@
+This is a JavaScript Project as part of a training program.Javascrit, HTML, and CSS were used in the project. Three main areas were covered in the project, namely; String Manipulation Functions, Array Functions, and Mathematical Functions.
